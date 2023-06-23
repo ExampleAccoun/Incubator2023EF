@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incubator2023EF.API", "Incubator2023EF.API\Incubator2023EF.API.csproj", "{77185607-FCF1-4248-9876-EB459BF0BABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incubator2023EF.Data", "Incubator2023EF.Data\Incubator2023EF.Data.csproj", "{E00365F5-CEDC-4BEF-8058-64E19C996A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77185607-FCF1-4248-9876-EB459BF0BABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77185607-FCF1-4248-9876-EB459BF0BABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77185607-FCF1-4248-9876-EB459BF0BABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77185607-FCF1-4248-9876-EB459BF0BABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00365F5-CEDC-4BEF-8058-64E19C996A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00365F5-CEDC-4BEF-8058-64E19C996A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00365F5-CEDC-4BEF-8058-64E19C996A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00365F5-CEDC-4BEF-8058-64E19C996A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
